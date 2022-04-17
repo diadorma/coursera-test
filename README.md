@@ -1,2 +1,2 @@
 # coursera-test
-coursera test repoaitory
+coursera test repository
